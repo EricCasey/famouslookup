@@ -1,0 +1,21 @@
+{
+  "name": "postgresqlactivity",
+  "version": "0.0.1",
+  "description": "none",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "EricCasey",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^6.1.0"
+  }
+}
